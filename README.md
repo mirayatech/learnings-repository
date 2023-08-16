@@ -16,3 +16,7 @@ Got questions or suggestions? Contact me by sending a message on LinkedIn or a D
 
 - 📷 [Instagram](https://www.instagram.com/mirayatech/)
 - ‍💼 [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/)
+
+#
+
+<img src="https://matthew903.files.wordpress.com/2016/06/the-wind-rises-writing-gif.gif" width="100%"/>
