@@ -2,7 +2,7 @@
 
 Welcome to the "Core Concepts of GraphQL" section in my learning repository. Let's delve into the essential aspects that define GraphQL.
 
-## Schema Definition Language (SDL)📜
+## 📜 Schema Definition Language (SDL)
 
 ```javascript
 type User {
@@ -22,7 +22,7 @@ type User {
 - boolean: true/false
 - ID: key for data object
 
-## Schema 🗺️
+## 🗺️ Schema
 
 A GraphQL schema defines the capabilities of your API. It acts as a contract between the client and the server. In your schema:
 
@@ -41,7 +41,7 @@ type Mutation {
   - `Mutation` is for modifying data, such as updating a user's name.
   - `Subscription` enables real-time updates.
 
-## Queries 📋
+## 📋 Queries
 
 Queries are the way clients request data from your API. In your query:
 
@@ -60,7 +60,7 @@ query {
 
 GraphQL queries are like getting exactly what you want from a single endpoint, without having to ask multiple times. It's like grabbing just the right item you need from a store shelf.
 
-## Mutation 🔄
+## 🔄 Mutation
 
 Mutations change data in your API. When you perform a mutation, like creating or updating something, GraphQL often responds with a `payload.`
 

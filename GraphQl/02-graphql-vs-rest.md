@@ -1,8 +1,8 @@
-## Comparing GraphQL and REST 🌐
+## 🌐 Comparing GraphQL and REST
 
 Let's explore the differences between these two methods of working with APIs.
 
-### REST in a Nutshell 🥜
+### 🥜 REST in a Nutshell
 
 REST is a traditional way to get data from a server. It involves requesting data from specific endpoints. However, this might lead to getting more data than needed or making multiple requests for related data.
 
@@ -16,7 +16,7 @@ REST is a traditional way to get data from a server. It involves requesting data
 - Overfetching and underfetching data.
 - Requires multiple requests for related data.
 
-### GraphQL: A Precise Approach 🦄
+### 🦄 GraphQL: A Precise Approach
 
 GraphQL is a modern alternative that lets you request exactly the data you want. You send a query to a single endpoint, and the server responds with the specific data you asked for.
 
@@ -30,7 +30,7 @@ GraphQL is a modern alternative that lets you request exactly the data you want.
 
 - Might require some learning.
 
-### Choosing the Right Fit 🤷🏽‍♀️
+### 🤷🏽‍♀️ Choosing the Right Fit
 
 `Choose GraphQL if you prefer:`
 
