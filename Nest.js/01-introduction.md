@@ -1,5 +1,3 @@
-Absolutely, let's simplify the language while keeping the emojis:
-
 ## Introduction to Nest.js 🚀
 
 Welcome to the Nest.js Basics section in my learning repository! 🌟
