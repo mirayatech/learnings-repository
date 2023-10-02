@@ -32,3 +32,9 @@ query {
 - [GraphQl Crash Course - The Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
 - [Official GraphQL Documentation](https://graphql.org/)
 - [How to GraphQL](https://www.howtographql.com/)
+
+- [Official GraphQL Documentation](https://graphql.org/)
+- [How to GraphQL](https://www.howtographql.com/)
+
+- [Exclusive Expert Interviews](link-to-expert-interviews)
+- [Supplementary Guides](link-to-supplementary-guides)
