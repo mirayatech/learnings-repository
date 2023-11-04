@@ -24,6 +24,19 @@
 | %      | Modulus        |
 | //     | Floor Division |
 
+## Equality Operators
+
+- `==` Equal
+- `!=` Not Equal
+- `>` Greater Than
+- `<` Less Than
+- `>=` Greater Than or Equal To
+- `<=` Less Than or Equal To
+
+### Notice
+
+- one equal sign is when you assing to an variable and double equal sign is when you compare two values
+
 ### Examples
 
 - 2 \*\* 3 = 8 (2 to the power of 3)
