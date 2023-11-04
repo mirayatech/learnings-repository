@@ -50,7 +50,7 @@ print(y) # 10
 - Names are case sensitive
   - `cats` and `Cats` are different variables
 
-## Namiv Conventions (most variables)
+## Naming Conventions (most variables)
 
 - snake case
 
@@ -63,3 +63,42 @@ print(y) # 10
 - UpperCamelCase: usually refers to a class
 
 - variables that start and end with two underscores: `__no_touchy__` are supposde to be private or left alone
+
+## String Concatination
+
+- we can use `+` to combine strings
+- we can use `*` to repeat strings
+
+```Python
+name = "John"
+print("Hello " + name) # Hello John
+print(name * 3) # JohnJohnJohn
+```
+
+- `8` + `"hello"` will give us an error, because we cant add a number to a string
+
+### We can also use operators for concatenation
+
+```Python
+x = 10
+formatted = f"I've told you {x} times already!"
+or
+formatted = "I've told you {} times already!".format(10)
+```
+
+## Interpolation
+
+- we can use f-strings to interpolate variables into strings
+
+```Python
+name = "John"
+print(f"Hello {name}") # Hello John
+```
+
+## Strings & Indexes (Indecies)
+
+## Notice
+
+- we should always be consistent, either `"''"` or `"''"` or `"he said \ "hello\" to me" `
+
+- we can use qupute inside of qoutes as long as they are different
