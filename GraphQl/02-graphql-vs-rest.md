@@ -1,6 +1,6 @@
 ## 🌐 Comparing GraphQL and REST
 
-Let's explore the differences between these two methods of working with APIs.
+Here's some differences between these two methods of working with APIs.
 
 ### 🥜 REST in a Nutshell
 
