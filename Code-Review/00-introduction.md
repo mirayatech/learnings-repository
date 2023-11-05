@@ -1,15 +1,22 @@
-# 🚀 Mastering Code Reviews
+# Boost Your Code Review Skills
 
-Welcome to my journey of mastering code reviews! 🌟
+Welcome to my progress in code reviews! 🌟
 
-In this repository, I've documented my quest to become a better code reviewer, guided by the expertise of Curtis Einsmann, an experienced code reviewer. Curtis's wisdom has greatly influenced my approach to code reviews.
+This place is where I share how I'm learning to review code better, thanks to Curtis Einsmann's expert advice. His tips have really helped me improve.
 
-## What's Inside? 📚
+## What's Inside:
 
-I'll be diving into three carefully-crafted READMEs, each packed with practical insights from Curtis's course. These READMEs hold the key to my growth as a code reviewer. Let's explore them and uncover their valuable lessons 📖 🚀
+You'll find three guides here, all based on what I've learned from Curtis. They're key to getting better at code reviews. Let's check them out for some solid advice. 📖
 
-## Topics to Explore:
+## Topics Covered:
 
 - Module 1: Creating Better Code Review Processes 🔄
 - Module 2: Enhancing Reviewing Skills 📈
 - Module 3: Crafting High-Quality Code 📝
+
+## Course Details:
+
+- Link: [Code Review Course](https://curtiseinsmann.gumroad.com/l/code-review-course)
+
+- Videos: 4+ hours
+- Slides: 150+ page PDF
