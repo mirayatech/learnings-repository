@@ -1,18 +1,18 @@
-## Two main types of numbers:
+# Understanding Python Basics 📘
 
-### Integer
+## 🧮 Types of Numbers in Python
 
-- 4
-- 57
-- -10
+### 🔢 Integer (Int)
 
-### Floating Point
+- Whole numbers without a decimal point.
+  - Examples: 4, 57, -10
 
-- 6.1
-- 1.333
-- 0,0
+### 🔟 Floating Point (Float)
 
-## Operators
+- Numbers with a decimal point.
+  - Examples: 6.1, 1.333
+
+## ➕ Operators
 
 | Symbol | Name           |
 | ------ | -------------- |
@@ -24,28 +24,33 @@
 | %      | Modulus        |
 | //     | Floor Division |
 
-## Equality Operators
+## ✅ Equality and Comparison Operators
 
-- `==` Equal
-- `!=` Not Equal
+Learn how to compare values using Python operators.
+
+- `==` Equal To
+- `!=` Not Equal To
 - `>` Greater Than
 - `<` Less Than
 - `>=` Greater Than or Equal To
 - `<=` Less Than or Equal To
 
-### Notice
+### 📝 Note on Assignment vs Comparison
 
-- one equal sign is when you assing to an variable and double equal sign is when you compare two values
+- A single `=` is used to assign a value to a variable.
+- A double `==` is used to compare two values.
 
-### Examples
+### 🧪 Examples of Operators in Action
 
-- 2 \*\* 3 = 8 (2 to the power of 3)
-- 4 \*\* 4 = 256 (4 to the power of 4)
+- `2 ** 3` results in 8 (2 raised to the power of 3)
+- `4 ** 4` results in 256 (4 raised to the power of 4)
 
-- 10 / 3 = 3.3333333333333335
-- 10 // 3 = 3
+- `10 / 3` results in 3.3333333333333335 (division)
+- `10 // 3` results in 3 (floor division)
 
-## Comments
+## 💬 Comments in Python
 
-- Single line comment: `#`
-- Multi line comment: `""" """`
+Comments are notes in your code that are not executed.
+
+- Use `#` for a single line comment.
+- Use `"""` for comments spanning multiple lines.
