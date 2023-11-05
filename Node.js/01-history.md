@@ -2,7 +2,7 @@
 
 ### 🥑 Introduction to Node.js:
 
-Node.js is a cool tech that lets you run JavaScript code outside of a web browser. NOe.js in itself is not a lanugae its a run time, the language itself is javascript. Its a serverside runtime. It just some differences capabilities and what you can do with it. and Ryan Dahl created it in 2009 and the Node.js community has been keeping it up ever since.
+Node.js is a cool tech that lets you run JavaScript code outside of a web browser. Node.js in itself is not a lanugae its a run time, the language itself is javascript. Its a serverside runtime. It just some differences capabilities and what you can do with it. and Ryan Dahl created it in 2009 and the Node.js community has been keeping it up ever since.
 
 ### 👶 The Birth of Node.js
 
